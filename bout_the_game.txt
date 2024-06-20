@@ -1,0 +1,3 @@
+Currently there are 7 champion classes, most of which are split into 2 or 3 subcategories -
+Controller or Suppporter (Enchanter, Catcher), Fighter (Juggernaut, Diver), Mage (Burst, Battlemage, Artilery), 
+Marksman, Slayer (Assassin, Skirmisher), Tank (Vanguard, Warden) and Specialist.
