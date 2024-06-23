@@ -1,7 +1,7 @@
 
 # League of Legends Match Prediction
 
-This project aims to predict the outcome of League of Legends matches using machine learning techniques. Match details from top players were extracted, and numerical encoding and feature engineering were performed to train and validate the models.
+This project aims to predict the outcome of League of Legends 5 (v/s) 5 matches using machine learning techniques. Match details from top players were extracted, and numerical encoding and feature engineering were performed to train and validate the models.
 
 
 
