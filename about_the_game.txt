@@ -1,3 +1,30 @@
-Currently there are 7 champion classes, most of which are split into 2 or 3 subcategories -
-Controller or Suppporter (Enchanter, Catcher), Fighter (Juggernaut, Diver), Mage (Burst, Battlemage, Artilery), 
-Marksman, Slayer (Assassin, Skirmisher), Tank (Vanguard, Warden) and Specialist.
+League of Legends (LoL) is a multiplayer online battle arena (MOBA) video game developed and published by Riot Games. Players assume the role of a "champion" with unique abilities, and they team up with other players to compete against an opposing team. The goal is to destroy the opposing team's Nexus, a structure located at the heart of their base, after overcoming a series of defensive structures.
+
+Champions
+League of Legends features over 150 champions, each with unique abilities and playstyles. Champions are divided into several classes based on their abilities and roles in the game:
+
+1. Tank: Durable champions that can absorb a lot of damage.
+2. Mage: Champions that use magic-based attacks, typically from a distance.
+3. Assassin: Champions that specialize in quickly eliminating opponents.
+4. Marksman: Ranged champions that deal consistent damage over time.
+5. Support: Champions that aid their team through healing, buffs, or crowd control.
+6. Fighter: Versatile champions that can deal and take moderate amounts of damage.
+
+Ranked Play
+Players can participate in ranked games to earn competitive rankings. The ranked hierarchy in League of Legends is as follows, from lowest to highest:
+
+1. Iron
+2. Bronze
+3. Silver
+4. Gold
+5. Platinum
+6. Emerald
+7. Diamond
+8. Master
+9. Grandmaster
+10. Challenger
+
+Each tier, except for Master, Grandmaster, and Challenger, is divided into four divisions (e.g., Silver IV, Silver III, Silver II, Silver I), with IV being the lowest and I being the highest within the tier.
+
+Gameplay and Teams
+The game consists of 10 players divided into two teams: the red team and the blue team. Each player selects a champion to play, and each champion gains experience and levels up throughout the match, increasing their power and abilities.
